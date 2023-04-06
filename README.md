@@ -1,7 +1,17 @@
-# 说明
-- 该工程是从原作者提供的仓库拷贝过来的，非本人创作。因为原地址是用的 “Gitlab at Inria” 平台，不好登录注册，所以想弄到github平台上，方便管理
-- 原仓库地址： https://gitlab.inria.fr/tangram/oa-slam
-- 原论文地址： https://arxiv.org/pdf/2209.08338.pdf
+# Hikitugi
+このリポジトリは「Visual SLAMにおけるループ閉じ込みのためのオブジェクトの活用」の引継ぎ手順を説明するものです．    
+研究室に入ってからすぐにこのプログラムを実行することはオススメしません．  
+linuxにある程度慣れてから試してください．    
+分からない箇所があれば[Issues](https://github.com/Corufa/Hikitugi/issues)に投稿してください．  
+本プログラムは[OA-SLAM](https://gitlab.inria.fr/tangram/oa-slam)を参考にしています．  
+・(4/10)までに完成させます．
+
+# 1. 前提条件
+wasabiのUbuntu20.04で実行してください．
+
+# 2. 構築
+
+
 # ORB-SLAM2
 
 **Associated Publication:**

@@ -1,1 +1,0 @@
-sudo xhost +local:root && docker run --mount type=bind,src=home/ohkoshi/,dst=/root/host_os --gpus all --rm -e DISPLAY=$DISPLAY -v /tmp/.X11-unix:/tmp/.X11-unix -v /dev:/dev:ro  -it oa-slam 

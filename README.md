@@ -10,10 +10,11 @@ linuxにある程度慣れてから試してください．
 wasabiのUbuntu20.04で実行してください．
 
 # 2. 構築
+リポジトリをクローン
 ```
-git clone 
+git clone https://github.com/Corufa/mie-Hikitugi.git
 ```
-`Hello World`と表示されたら成功
+
 
 
 

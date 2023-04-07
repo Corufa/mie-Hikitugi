@@ -10,6 +10,11 @@ linuxにある程度慣れてから試してください．
 wasabiのUbuntu20.04で実行してください．
 
 # 2. 構築
+```
+git clone 
+```
+`Hello World`と表示されたら成功
+
 
 
 # ORB-SLAM2

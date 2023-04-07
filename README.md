@@ -15,7 +15,7 @@ wasabiのUbuntu20.04で実行してください．
 git clone https://github.com/Corufa/mie-Hikitugi.git
 ```
 [OA-SLAM](https://gitlab.inria.fr/tangram/oa-slam)のリポジトリを参考にしてdocker環境を構築する．  
-`/Data`に動画データをダウンロードして解凍する，
+`/Data`に動画データをダウンロードして[解凍](https://qiita.com/t-kubo0325/items/158e02aa6b8e62b76242)する．
 ```
 wget https://cvg.cit.tum.de/rgbd/dataset/freiburg2/rgbd_dataset_freiburg2_desk.tgz
 ```

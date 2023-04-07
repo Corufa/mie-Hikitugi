@@ -14,6 +14,7 @@ wasabiのUbuntu20.04で実行してください．
 ```
 git clone https://github.com/Corufa/mie-Hikitugi.git
 ```
+[OA-SLAM](https://gitlab.inria.fr/tangram/oa-slam)のリポジトリを参考にしてdocker環境を構築する．
 
 
 

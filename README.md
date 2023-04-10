@@ -26,6 +26,7 @@ sh build.sh
 ```
 sh run.sh
 ```
+[このサイト](https://cvg.cit.tum.de/data/datasets/rgbd-dataset/online_evaluation)から精度評価できます．
 
 
 # ORB-SLAM2

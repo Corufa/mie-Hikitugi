@@ -82,8 +82,7 @@ Build OA-SLAM:
 ```
 sh build.sh
 ```
-
-
+[このサイト](https://cvg.cit.tum.de/data/datasets/rgbd-dataset/online_evaluation)で精度評価できます．
 
 
 

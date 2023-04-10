@@ -4,7 +4,6 @@
 linuxにある程度慣れてから試してください．    
 分からない箇所があれば[Issues](https://github.com/Corufa/Hikitugi/issues)に投稿してください．  
 本プログラムは[OA-SLAM](https://gitlab.inria.fr/tangram/oa-slam)を参考にしています．  
-・(4/10)までに完成させます．
 
 # 1. 前提条件
 wasabiのUbuntu20.04で実行してください．
@@ -19,7 +18,14 @@ git clone https://github.com/Corufa/mie-Hikitugi.git
 ```
 wget https://cvg.cit.tum.de/rgbd/dataset/freiburg2/rgbd_dataset_freiburg2_desk.tgz
 ```
-
+ビルド
+```
+sh build.sh
+```
+実行
+```
+sh run.sh
+```
 
 
 # ORB-SLAM2
